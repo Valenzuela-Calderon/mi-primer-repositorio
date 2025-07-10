@@ -1,0 +1,1 @@
+Hola soy Cristofer Valenzuela Calderon de la carrera tecnica Arquitectura de Plataformas y Servicios TI y espero utilizar los conocimientos ofrecidos por Git/GitHub para poder utilizarlos en el futuro con el desarrollo de la carrera  
